@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hello-World-Standard\Hello-World-Standard.csproj" />
+  </ItemGroup>
+
 </Project>
